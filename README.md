@@ -26,8 +26,4 @@ This project was created by Patrick Nayituriki as part of a guided learning acti
 4. **Open your browser and visit:**
 	[http://localhost:5173/](http://localhost:5173/)
 
-You should see my name and my favorite football team displayed on the page!
-
----
-
-If you have any questions, feel free to reach out to me. Enjoy coding and... I'm looking forward to the Manchester Derby!
+You should see my name and my favorite football team displayed on the page.
