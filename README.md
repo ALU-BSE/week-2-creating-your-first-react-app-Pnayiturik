@@ -3,7 +3,7 @@
 
 **Author:** Patrick Nayituriki
 
-This project was created by Patrick Nayituriki as part of a guided learning activity. It demonstrates a simple React app using TypeScript and Vite, with a custom component that displays my name and favorite football team (Manchester United) using props.
+This project was created by Patrick Nayituriki as part of a guided learning activity. It demonstrates a simple React app using TypeScript and Vite, with a custom component that displays a large heading, a paragraph, and my name in italic—just like the screenshot output.
 
 ## Installation & Running
 
@@ -26,4 +26,4 @@ This project was created by Patrick Nayituriki as part of a guided learning acti
 4. **Open your browser and visit:**
 	[http://localhost:5173/](http://localhost:5173/)
 
-You should see my name and my favorite football team displayed on the page.
+You should see a large heading saying "Hello from MyComponent!", a paragraph of text, and my name in italic displayed on the page.
